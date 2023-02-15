@@ -14,7 +14,7 @@ public class l1t1 {
 //                if(a[j]<a[j-1]){
 //                     t=a[j];
 //                     a[j]=a[j-1];
-//                     a[j-1]=t;
+//                     a[j-1]=t;1
 //                }
         int x, y, l, r, m, b,c;
         for (int k = 1; k <= q; k++) {
