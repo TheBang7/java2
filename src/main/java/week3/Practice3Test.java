@@ -1,11 +1,12 @@
 package week3;
 
 import org.junit.*;
-import static org.junit.jupiter.api.Assertions.*;
+//import static org.junit.jupiter.api.Assertions.*;
 import java.io.ByteArrayInputStream;
 import java.io.ByteArrayOutputStream;
 import java.io.PrintStream;
 
+import static junit.framework.TestCase.assertEquals;
 
 
 public class Practice3Test {
